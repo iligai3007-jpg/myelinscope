@@ -1,0 +1,8 @@
+# Initialize a modern Next.js / TypeScript web application
+npx create-next-app@latest myelinscope-ui --typescript --tailwind --eslint
+
+# Navigate into the project folder
+cd myelinscope-ui
+
+# Start the web development server
+npm run dev
